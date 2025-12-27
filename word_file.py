@@ -1,0 +1,1 @@
+words = ["kopal","vivek","raunak","sahil","attitude","mahi","beutifull","range"]
